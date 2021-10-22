@@ -10,4 +10,5 @@ NLP methods such as:
   4) Lemmatising
   5) Applying TfIdf Vectoriser
   6) Splitting dataset into Training and Testing
+
 are used to process the texts and make it easier for the model building.
